@@ -1,0 +1,5 @@
+[tool.pylint.'MESSAGES CONTROL']
+disable = ["missing-module-docstring"]
+
+[tool.ruff.lint]
+ignore = ["D100"]
